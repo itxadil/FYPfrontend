@@ -1,0 +1,10 @@
+#quizID:hover{
+    color: red;
+}
+.main_div{
+    display: flex;
+    flex-direction: row;
+}
+.table_div{
+    margin-top: 20px;
+}
